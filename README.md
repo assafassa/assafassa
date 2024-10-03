@@ -28,7 +28,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 &emsp;
 <a href="https://react.dev/" target="_blank"> 
-<img alt="Java" style={{hieght:'20px', width:'80px'}} src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge](https://logolook.net/wp-content/uploads/2023/12/MATLAB-Logo.png">
+<img alt="Java" style={{hieght:'20px', width:'80px'}} src="https://logolook.net/wp-content/uploads/2023/12/MATLAB-Logo.png">
 </a>
 &emsp;
 <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
