@@ -52,7 +52,7 @@
 &emsp;
 <a href="#"><img alt="MongoDB" style="height: 60px; width: 70px; " src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226029.png"></a>
 &emsp;
-<a href="#"><img alt="Expo React-Native" style="height: 60px; width: 100px; " src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284229573/original/cdb58de7712c0b935949317ceb893d1b471ae62f/setup-expo-cli-on-your-pc.png"></a>
+<a href="#"><img alt="Expo React-Native" style="height: 60px; width: 120px; " src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284229573/original/cdb58de7712c0b935949317ceb893d1b471ae62f/setup-expo-cli-on-your-pc.png"></a>
 &emsp;
 </p>
 
