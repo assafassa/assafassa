@@ -3,8 +3,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=B.Sc.+Physics+and+Math;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Forward-thinking and quick learner Computer Science graduate with solid analytical and problem solving skills.  Skilled at project planning, programming languages.
-Pro-active approach, offering great interpersonal communication skills, great work ethic, and the important ability to function well in fast-paced and deadline-driven team environments. </h4>
+<h4 align="center">Forward-thinking and quick learner Physics & Mathematics graduate with solid analytical and problem solving skills. Skilled in various programming languages, I am an autodidact with a strong work ethic. I approach challenges as opportunities for development and am eager to continue my growth in a collaborative environment. Highly motivated, I bring effective interpersonal communication skills to every team. </h4>
 <br>
 
  
@@ -21,16 +20,15 @@ Pro-active approach, offering great interpersonal communication skills, great wo
 
 <p align="left"> 
 &emsp; 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-<img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+<a href="https://www.python.org/" target="_blank"> 
+<img alt="C" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </a> 
 &emsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-</a> 
+<a href="https://www.javascript.com/" target="_blank"> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 &emsp;
-<a href="https://www.java.com" target="_blank"> 
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<a href="https://react.dev/" target="_blank"> 
+<img alt="Java" style={{hieght:'20px', width:'80px'}} src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge](https://logolook.net/wp-content/uploads/2023/12/MATLAB-Logo.png">
 </a>
 &emsp;
 <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
