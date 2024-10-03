@@ -36,7 +36,7 @@
 </a>
  &emsp;
 <a href=https://nodejs.org/en""> 
-<img alt="Nodejs" style="height: 50px; width: 65px;margin-bottom: -40px;" src="https://www.shareicon.net/data/128x128/2015/10/06/112724_development_512x512.png">
+<img alt="Nodejs" style="height: 50px; width: 65px;" src="https://www.shareicon.net/data/128x128/2015/10/06/112724_development_512x512.png">
 </a>
 </a>
 </a>
@@ -52,7 +52,7 @@
 &emsp;
 <a href="#"><img alt="MongoDB" style="height: 60px; width: 70px; " src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226029.png"></a>
 &emsp;
-<a href="#"><img alt="Expo React-Native" style="height: 60px; width: 140px; " src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284229573/original/cdb58de7712c0b935949317ceb893d1b471ae62f/setup-expo-cli-on-your-pc.png"></a>
+<a href="#"><img alt="Expo React-Native" style="height: 60px; width: 140px; margin-top: 40px;" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284229573/original/cdb58de7712c0b935949317ceb893d1b471ae62f/setup-expo-cli-on-your-pc.png"></a>
 &emsp;
 </p>
 
