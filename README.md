@@ -50,13 +50,9 @@
 &emsp;
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 &emsp;
-<a href="#"><img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" style="height: 40px; width: 50px; " src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226029.png"></a>
 &emsp;
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-&emsp;
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
-&emsp;
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="#"><img alt="Expo React-Native" style="height: 40px; width: 50px; " src=https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284229573/original/cdb58de7712c0b935949317ceb893d1b471ae62f/setup-expo-cli-on-your-pc.png"></a>
 &emsp;
 </p>
 
