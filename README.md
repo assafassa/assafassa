@@ -28,7 +28,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 &emsp;
 <a href="https://react.dev/" target="_blank"> 
-<img alt="Java" style="height: 30px; width: 80px;" src="https://logolook.net/wp-content/uploads/2023/12/MATLAB-Logo.png">
+<img alt="Java" style="height: 30px; width: 80px;" src="https://w7.pngwing.com/pngs/896/610/png-transparent-matlab-horizontal-logo-thumbnail.png">
 </a>
 &emsp;
 <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
