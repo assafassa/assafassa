@@ -27,18 +27,16 @@
 <a href="https://www.javascript.com/" target="_blank"> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 &emsp;
-<a href="https://www.mathworks.com/products/matlab.html"> 
-<img alt="Matlab" style="height: 30px; width: 80px; " src="https://power-e.ru/wp-content/uploads/matlab-400x174-1.png">
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%23E94E1B.svg?style=for-the-badge&logo=MATLAB&logoColor=white">
 </a>
- &emsp;
-<a href="https://react.dev/"> 
-<img alt="Reactjs" " src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+&emsp;
+<a href="https://reactjs.org/" target="_blank">
+<img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
 </a>
- &emsp;
-<a href=https://nodejs.org/en""> 
-<img alt="Nodejs" style="height: 50px; width: 65px;" src="https://www.shareicon.net/data/128x128/2015/10/06/112724_development_512x512.png">
-</a>
-</a>
+&emsp;
+<a href="https://nodejs.org/" target="_blank">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
 </p>
 
@@ -50,10 +48,13 @@
 &emsp;
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 &emsp;
-<a href="#"><img alt="MongoDB" style="height: 60px; width: 70px; " src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226029.png"></a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23039BE0.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
 &emsp;
-<a href="#"><img alt="Expo React-Native" style="height: 60px; width: 140px; margin-top: 100px;" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284229573/original/cdb58de7712c0b935949317ceb893d1b471ae62f/setup-expo-cli-on-your-pc.png"></a>
-&emsp;
+<a href="https://expo.dev/" target="_blank">
+    <img alt="Expo" src="https://img.shields.io/badge/Expo-000000.svg?style=for-the-badge&logo=expo&logoColor=white">
+</a>
 </p>
 
 
