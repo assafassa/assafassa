@@ -14,29 +14,30 @@
 
  
 
-### 👉 Programming languages
+### 👉 Programming languages and Frameworks
 
  
 
 <p align="left"> 
 &emsp; 
 <a href="https://www.python.org/" target="_blank"> 
-<img alt="C" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </a> 
 &emsp;
 <a href="https://www.javascript.com/" target="_blank"> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 &emsp;
-<a href="https://react.dev/" target="_blank"> 
-<img alt="Java" style="height: 30px; width: 80px;" src="https://power-e.ru/wp-content/uploads/matlab-400x174-1.png">
-</a>
-&emsp;
-<a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<a href="https://www.mathworks.com/products/matlab.html"> 
+<img alt="Matlab" style="height: 30px; width: 80px;" src="https://power-e.ru/wp-content/uploads/matlab-400x174-1.png">
 </a>
  &emsp;
-<a href="https://www.javascript.com/" target="_blank"> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<a href="https://react.dev/"> 
+<img alt="Reactjs" " src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+</a>
+ &emsp;
+<a href=https://nodejs.org/en""> 
+<img alt="Nodejs" style="height: 30px; width: 80px;" src="https://www.shareicon.net/data/128x128/2015/10/06/112724_development_512x512.png">
+</a>
 </a>
 </a>
 </p>
