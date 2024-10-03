@@ -28,7 +28,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 &emsp;
 <a href="https://www.mathworks.com/products/matlab.html"> 
-<img alt="Matlab" style="height: 30px; width: 80px; marginBottom: 20px;" src="https://power-e.ru/wp-content/uploads/matlab-400x174-1.png">
+<img alt="Matlab" style="height: 30px; width: 80px; marginBottom: -20px;" src="https://power-e.ru/wp-content/uploads/matlab-400x174-1.png">
 </a>
  &emsp;
 <a href="https://react.dev/"> 
