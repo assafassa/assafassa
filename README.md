@@ -27,6 +27,10 @@
 <a href="https://www.javascript.com/" target="_blank"> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 &emsp;
+<a href="https://www.java.com/" target="_blank"> 
+<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
+</a>
+ &emsp;
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%23E94E1B.svg?style=for-the-badge&logo=MATLAB&logoColor=white">
 </a>
@@ -54,6 +58,10 @@
 &emsp;
 <a href="https://expo.dev/" target="_blank">
     <img alt="Expo" src="https://img.shields.io/badge/Expo-000000.svg?style=for-the-badge&logo=expo&logoColor=white">
+</a>
+&emsp;
+<a href="https://www.postman.com/" target="_blank">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </a>
 </p>
 
